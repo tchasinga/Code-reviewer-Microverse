@@ -1,0 +1,35 @@
+
+*{
+    text-decoration: none;
+    color: black;
+}
+
+
+header{
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding: 20px 0;
+    margin: 10px auto;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+nav ul{
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    list-style-type: none;
+    gap: 20px;
+    display: flex;
+    color: black;
+}
+
+nav ul li{
+    list-style-type: none;
+    text-decoration: none;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+
+}
